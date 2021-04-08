@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.body{
+    background-color:#FFE6EE;
+}
+
+#first-section{
+	color:#EEC0CB;
+	font-size:50px;
+	font-family:"Abril, Fatface";
+	border-width:20%;
+	border-style:outset;
+	border-width: 20px 20px 4px 30px;
+
+}
+
+#second-section{
+	font-family:"Abril, Fatface";
+	color:#9DC183;
+	font-size:45px;
+}
+
+.W1,.W2,.W3,.W4,.W5,.W6,.W7{
+	color:#679267;
+	font-size:32px;
+
+}
+
+.L1,.L2,.L3,.L4,.L5,.L6,.L7,.L8,.L9,.L10,.L11,.L12,.L13,.L14{
+	color:#A9BA9D;
+	font-size:26px;
+	text-decoration:none;
+	font-family:"Bebas, Neue"
+	
+}
+
