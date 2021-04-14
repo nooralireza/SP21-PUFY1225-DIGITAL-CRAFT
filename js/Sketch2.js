@@ -34,4 +34,7 @@ arc(200,200,100,140,PI,TWO_PI);
 fill(255,204,255)
 arc(200,160,85,100,PI,TWO_PI);
   
+//concave shape inside 
+fill(102,153,255)
+arc(164,340,100,100,QUARTER_PI,PI+QUARTER_PI);
 }
