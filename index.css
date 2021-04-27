@@ -27,16 +27,15 @@
 .W1,.W2,.W3,.W4,.W5,.W6,.W7{
 	color:#679267;
 	font-size:32px;
-border-width:20%;
-	border-style:outset;
-	border-width: 20px 20px 4px 30px;
+	font-family: "Abril, Fatface";
+
 }
 
 .L1,.L2,.L3,.L4,.L5,.L6,.L7,.L8,.L9,.L10,.L11,.L12,.L13,.L14{
 	color:#A9BA9D;
 	font-size:26px;
 	text-decoration:none;
-	font-family:"Bebas, Neue"
+	font-family:"Abril, Fatface"
 	
 }
 
