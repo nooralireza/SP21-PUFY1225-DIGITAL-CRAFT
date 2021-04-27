@@ -1,7 +1,7 @@
 let x, y, r, g, b;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1000, 1000);
   background(0);
   noStroke();
 }
