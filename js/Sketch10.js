@@ -1,6 +1,6 @@
 let a = 400
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(windowWidth, windowHeight);
   noStroke();
   frameRate(8);
   
