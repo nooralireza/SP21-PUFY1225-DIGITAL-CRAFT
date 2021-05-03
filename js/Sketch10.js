@@ -15,8 +15,8 @@ function draw() {
       
   fill(random(0,a),random(0,a),random(0,a),70);
   for (let x = 0; x<width; x += 30){
-    for(let y = 0; y<height; y += 30){
-    rect(x, y, 20, 20)
+    for(let y = 0; y<height; y += 35){
+    rect(x, y, 25, 25)
     }
    }
   }
