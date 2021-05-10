@@ -34,7 +34,6 @@ function setup() {
 function draw() {
   background(251,252,250);
   
-
 //moving ellipses 
  for (let a = 0; a < width; a += 10) {
     for (let b = 0; b < height; b += 10) {
@@ -43,8 +42,7 @@ function draw() {
       ellipse(a, b, 25, 25);
     }
   } 
-  
-  
+
 //square
  //light blue 
  fill(194, 245, 240);
