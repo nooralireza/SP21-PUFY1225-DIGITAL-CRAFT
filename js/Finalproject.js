@@ -1,3 +1,4 @@
+//mathematical rose code obtained from coding train 
 let s = 35
 let c1 = 20
 let c2 = 60 
